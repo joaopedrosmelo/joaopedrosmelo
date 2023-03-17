@@ -6,6 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Desenvolvedor .NET
-- 🎮 Gosto de jogar vídeo game e boardgames
-- 📔 Passo parte do tempo lendo
+- 💻 Desenvolvedor .NET. Entity Framework, SQL Server, Microsserviços.
+- 🎮 Gosto de jogar vídeo game e boardgames.
+- 📖 Leio sempre que posso.
+- 🎸 Guitarrista.
+- 🎬 Adoro filmes e séries.
